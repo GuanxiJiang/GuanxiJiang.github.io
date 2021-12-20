@@ -17,7 +17,7 @@ My research interests lie in big data, neuromorphic computing and machine learni
 
 ## Publications
 
-- [Discussion on the Application Prospects of the Third-generation Solar cell](url)
+- [Discussion on the Application Prospects of the Third-generation Solar Cell](url)
 
   Yujie Chen, Ziqian We, **Guanxi Jiang**
 
