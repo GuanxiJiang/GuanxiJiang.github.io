@@ -13,13 +13,13 @@ Currently, I am a senior year undergraduate student in a joint programme between
 My research interests lie in big data, neuromorphic computing and machine learning, which enable me to possess state-of-the-art technologies to improve the world.
 
 ## News
-- [March 2021].
+- [Dec. 2021] Hosted 2021 18th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP).
 
 ## Publications
 
 - [Discussion on the Application Prospects of the Third-generation Solar cell](url)
 
-  Yujie Chen, Ziqian We, Guanxi Jiang
+  Yujie Chen, Ziqian We, **Guanxi Jiang**
 
   ISAEECE 2022
 
