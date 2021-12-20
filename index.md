@@ -13,7 +13,7 @@ Currently, I am a senior year undergraduate student in a joint programme between
 My research interests lie in big data, neuromorphic computing and machine learning, which enable me to possess state-of-the-art technologies to improve the world.
 
 ## News
-- [Dec. 2021] We hosted [ICCWAMTIP 2021 in Chengdu, China](https://waveletlab.cn/).
+- [Dec. 2021] We hosted [ICCWAMTIP 2021](https://waveletlab.cn/) in Chengdu, China.
 
 ## Publications
 
