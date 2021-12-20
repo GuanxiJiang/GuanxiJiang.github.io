@@ -13,7 +13,7 @@ Currently, I am a senior year undergraduate student in a joint programme between
 My research interests lie in big data, neuromorphic computing and machine learning, which enable me to possess state-of-the-art technologies to improve the world.
 
 ## News
-- [Dec. 2021] Hosted 2021 18th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP).
+- [Dec. 2021] Hosted 2021 18th International Computer Conference on Wavelet Active Media Technology and Information Processing ([ICCWAMTIP 2021 | Chengdu, China](https://waveletlab.cn/)).
 
 ## Publications
 
